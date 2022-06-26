@@ -4,7 +4,7 @@ pricing:
   title: Our Plans
   pricing_table:
   - name: Free
-    price: "$99999999999999999"
+    price: "$99999999"
     unit: month
     services:
     - 1GB Disk Space
